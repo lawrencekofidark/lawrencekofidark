@@ -10,4 +10,10 @@ I'm a university student pursuing a combined Statistics and Computer Science deg
 
 ⚡ Fun fact: I'm also an active trader, which feeds my interest in data patterns and probability
 
+📌 Featured Projects
+
+TC-5 — SMC Trading Framework Explainer — An interactive site documenting my personal Smart Money Concepts trading framework for XAUUSD, covering entry model, daily bias, sessions, and discipline rules. Live at tc5-explainer.vercel.app.
+
+(More projects coming soon.)
+
 📫 How to reach me lawrencedarkofi@gmail.com
