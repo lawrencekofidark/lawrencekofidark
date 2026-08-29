@@ -16,4 +16,6 @@ TC-5 — SMC Trading Framework Explainer — An interactive site documenting my 
 
 (More projects coming soon.)
 
+XAUUSD Session Volatility Analysis — A statistical study testing whether forex/gold volatility genuinely differs across trading sessions (Asia, London, New York), using real historical data and non-parametric hypothesis testing (Kruskal-Wallis, Mann-Whitney U).
+
 📫 How to reach me lawrencedarkofi@gmail.com
