@@ -14,8 +14,9 @@ I'm a university student pursuing a combined Statistics and Computer Science deg
 
 TC-5 — SMC Trading Framework Explainer — An interactive site documenting my personal Smart Money Concepts trading framework for XAUUSD, covering entry model, daily bias, sessions, and discipline rules. Live at tc5-explainer.vercel.app.
 
-(More projects coming soon.)
 
 XAUUSD Session Volatility Analysis — A statistical study testing whether forex/gold volatility genuinely differs across trading sessions (Asia, London, New York), using real historical data and non-parametric hypothesis testing (Kruskal-Wallis, Mann-Whitney U).
+
+(More projects coming soon.)
 
 📫 How to reach me lawrencedarkofi@gmail.com
